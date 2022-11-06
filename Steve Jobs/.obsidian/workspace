@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b23dd0ec5532744c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f77d14a14044dcb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "人物/Erin Jobs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f565cc1218a91584",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3a063f73885d155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb98fcfe8306372d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e162ed9b23aae71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249
+  },
+  "right": {
+    "id": "120fc50a3b9c04ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c35eba90853a701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0944a515c65a0506",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人物/Erin Jobs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f77d14a14044dcb5",
+  "lastOpenFiles": [
+    "人物/Erin Jobs.md",
+    "人物/沃兹.md",
+    "人物/阿卜杜拉法塔赫·约翰·詹达利.md",
+    "公司/苹果计算机公司.md",
+    "公司/阿塔里.md",
+    "人物/特雷尔.md",
+    "人物/Steve_Jobs.md",
+    "事件/1976年.md",
+    "事件/2011年去世.md",
+    "人物/韦恩.md"
+  ]
+}

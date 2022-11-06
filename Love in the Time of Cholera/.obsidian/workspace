@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e85d128028c24610",
+    "type": "split",
+    "children": [
+      {
+        "id": "637bbc9009d41b68",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "person/埃斯科拉斯蒂卡·达萨.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4c51a036914dbf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b64d64f260c549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82ae534e9d34e2c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f365a7588f21656",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5664bbdbde12bda5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7c9857001edf1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "839a2e84dd71c12a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "person/埃斯科拉斯蒂卡·达萨.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "82ae534e9d34e2c5",
+  "lastOpenFiles": [
+    "person/洛伦索·达萨.md",
+    "person/洛达里奥·图古特.md",
+    "love/一个小姑娘的爱.md",
+    "love/欺骗了所有人的爱.md",
+    "date/圣神降临节.md",
+    "person/胡维纳尔·乌尔比诺.md",
+    "person/马可·奥雷里奥·乌尔比诺·达萨.md",
+    "person/埃斯科拉斯蒂卡·达萨.md",
+    "person/奥菲利娅.md",
+    "person/皮奥第五·阿依萨.md"
+  ]
+}
