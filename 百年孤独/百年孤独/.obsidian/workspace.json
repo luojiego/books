@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "6a104d1f1d831633",
+    "type": "split",
+    "children": [
+      {
+        "id": "e366425010c1fdf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5090a930acbc90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物/阿尔卡蒂奥.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3d51331557d9ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物/何赛·阿尔卡蒂奥·布恩迪亚.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80956981c2e83378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物/何赛·阿尔卡蒂奥·布恩迪亚.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a4fd4e245b99cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考/到底是谁让这家走向没落的？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce03517b2dcb5689",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e44db604a3791fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物/阿波利纳尔·摩斯科特.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d95d862f67f2655",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b0a2e4e6fda5ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec3431304352520",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "022aa4290c930116",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7859c8f7bb3e28b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "1efa5d019c7f266d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae592416cf8e1d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f166c9df6fc30e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人物/阿尔卡蒂奥.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cede033d65427612",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "人物/阿尔卡蒂奥.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23b475071642cc8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb6ddf395c3a1325",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人物/阿尔卡蒂奥.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c5090a930acbc90",
+  "lastOpenFiles": [
+    "人物/乌尔苏拉·伊瓜兰.md",
+    "思考/教育到底有多重要？.md",
+    "思考/到底是谁让这家走向没落的？.md",
+    "人物/何赛·阿尔卡蒂奥·布恩迪亚.md",
+    "事件/死亡顺序.md",
+    "人物/尼卡诺尔·雷伊纳.md",
+    "人物/阿波利纳尔·摩斯科特.md",
+    "人物/奥雷里亚诺·布恩迪亚.md",
+    "人物/比西塔西翁.md",
+    "人物/丽贝卡.md"
+  ]
+}
