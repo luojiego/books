@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T14:07:20.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="Nv9tgS08u4wg9SmVvqNc" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T14:42:55.696Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Zi4mLJXBMjg5bu74vZm3" version="24.0.1" type="github">
   <diagram name="第 1 页" id="XFVcYhwaDkixJCFzh9bD">
-    <mxGraphModel>
+    <mxGraphModel dx="1329" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xiOpGG4odRyFYriXpunj-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="98" as="sourcePoint" />
+            <mxPoint x="190" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="218" as="sourcePoint" />
+            <mxPoint x="190" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="198" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="200" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-6" value="应用程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="68" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-7" value="异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="168" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-8" value="异常&lt;div&gt;处理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-9" value="异常返回（可选的）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="258" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-10" value="事件在这里发生" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="200" as="sourcePoint" />
+            <mxPoint x="130" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-12" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;curr&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-13" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;next&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-14" value="图 8-1 异常的剖析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="290" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
