@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T10:52:01.019Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Hguz0g92wvH8c0fLvG4i" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T11:05:49.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pjZVLvoDCg0IMS1D6dvK" version="24.0.1" type="github">
   <diagram name="第 1 页" id="XFVcYhwaDkixJCFzh9bD">
     <mxGraphModel dx="1329" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,6 +302,60 @@
           <mxGeometry x="120" y="102" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xiOpGG4odRyFYriXpunj-14" value="图 8-5 中断处理。中断处理程序将控制返回给应用程序控制流中的下一条指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry x="40" y="242" width="430" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="360" width="560" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-119" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" as="sourcePoint" />
+            <mxPoint x="180" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="120" as="sourcePoint" />
+            <mxPoint x="180" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="100" as="sourcePoint" />
+            <mxPoint x="470" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="102" as="sourcePoint" />
+            <mxPoint x="470" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-123" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="162" as="sourcePoint" />
+            <mxPoint x="190" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-124" value="（2）控制传递给处理程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="200" y="72" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-125" value="（3）陷阱处理程序运行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="470" y="112" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-126" value="（4）处理程序返回到syscall之后的指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="270" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-127" value="（1）应用程序执行一次系统调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-128" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;i&gt;syscall&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="120" y="82" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-129" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;next&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="120" y="102" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-130" value="图 8-6 陷阱处理。陷阱处理程序将控制返回给应用程序控制流中的下一条指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
           <mxGeometry x="40" y="242" width="430" height="18" as="geometry" />
         </mxCell>
       </root>
