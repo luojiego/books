@@ -1,0 +1,364 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T11:05:49.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pjZVLvoDCg0IMS1D6dvK" version="24.0.1" type="github">
+  <diagram name="第 1 页" id="XFVcYhwaDkixJCFzh9bD">
+    <mxGraphModel dx="1329" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xiOpGG4odRyFYriXpunj-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="87.5" y="370" width="452.5" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="47.5" y="80" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="47.5" y="100" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="47.5" y="120" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="47.5" y="195" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-20" value="&lt;b&gt;.&lt;/b&gt;&lt;div&gt;&lt;b&gt;.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="72.5" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-21" value="异常表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="77.5" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-22" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="2.5" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-23" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="2.5" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-24" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="2.5" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-25" value="n-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-43" source="xiOpGG4odRyFYriXpunj-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102.5" y="90" as="sourcePoint" />
+            <mxPoint x="292.5" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-27" value="异常处理程序 0 的代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="292.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-28" value="异常处理程序 2 的代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="292.5" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-29" value="异常处理程序 1 的代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="292.5" y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-30" value="&lt;b&gt;.&lt;/b&gt;&lt;div&gt;&lt;b&gt;.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="342.5" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-31" value="异常处理程序 n-1 的代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="292.5" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-43" source="xiOpGG4odRyFYriXpunj-37" target="xiOpGG4odRyFYriXpunj-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102.5" y="110" as="sourcePoint" />
+            <mxPoint x="292.5" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-43" source="xiOpGG4odRyFYriXpunj-38" target="xiOpGG4odRyFYriXpunj-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102.5" y="130" as="sourcePoint" />
+            <mxPoint x="292.5" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-43" source="xiOpGG4odRyFYriXpunj-40" target="xiOpGG4odRyFYriXpunj-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102.5" y="205" as="sourcePoint" />
+            <mxPoint x="292.5" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-43" target="xiOpGG4odRyFYriXpunj-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102.5" y="90" as="sourcePoint" />
+            <mxPoint x="292.5" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-35" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="92.5" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-37" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="92.5" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-38" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="92.5" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-39" value="" style="endArrow=classic;html=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-43" target="xiOpGG4odRyFYriXpunj-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102.5" y="205" as="sourcePoint" />
+            <mxPoint x="292.5" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-40" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="92.5" y="195" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-41" value="图 8-2 异常表。异常表是一张跳转表，其中表目 k 包含异常 k 的处理程序代码的地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-43">
+          <mxGeometry x="2.5" y="260" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-100" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="710" width="532.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xiOpGG4odRyFYriXpunj-100" source="xiOpGG4odRyFYriXpunj-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-42" value="异常表基址寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-50" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="372.5" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-51" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="372.5" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-52" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="372.5" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-53" value="n-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="370" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-89" value="" style="endArrow=classic;html=1;rounded=0;curved=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-100" target="xiOpGG4odRyFYriXpunj-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="135" as="sourcePoint" />
+            <mxPoint x="360" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="135" />
+              <mxPoint x="360" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-92" value="异常 k 的条目的地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="240" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="195" y="115.25" width="39.5" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-96" value="" style="group" vertex="1" connectable="0" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="417.5" width="115" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry y="35" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry y="55" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry y="75" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry y="150" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-49" value="&lt;b&gt;.&lt;/b&gt;&lt;div&gt;&lt;b&gt;.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry x="25" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="45" as="sourcePoint" />
+            <mxPoint x="55" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-58" value="" style="endArrow=classic;html=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="160" as="sourcePoint" />
+            <mxPoint x="55" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-87" value="异常表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-96">
+          <mxGeometry x="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="54" as="sourcePoint" />
+            <mxPoint x="214.75" y="119.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-98" value="异常号&lt;div&gt;（×4）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="185" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-99" value="图 8-3 生成异常处理程序的地址。异常号是到异常表中的索引" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-100">
+          <mxGeometry x="80" y="190" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-102" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="30" width="530" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-103" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="30" as="sourcePoint" />
+            <mxPoint x="180" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-104" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="150" as="sourcePoint" />
+            <mxPoint x="180" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="130" as="sourcePoint" />
+            <mxPoint x="470" y="132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="132" as="sourcePoint" />
+            <mxPoint x="470" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-107" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="192" as="sourcePoint" />
+            <mxPoint x="190" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-108" value="应用程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry x="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-109" value="异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry x="310" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-110" value="异常&lt;div&gt;处理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry x="470" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-111" value="异常返回（可选的）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry x="310" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-112" value="事件在这里发生" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry y="132" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="132" as="sourcePoint" />
+            <mxPoint x="120" y="132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-114" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;curr&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry x="120" y="112" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-115" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;next&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry x="120" y="132" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-116" value="图 8-1 异常的剖析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-102">
+          <mxGeometry x="40" y="272" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-117" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="50" width="560" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" as="sourcePoint" />
+            <mxPoint x="180" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="120" as="sourcePoint" />
+            <mxPoint x="180" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="100" as="sourcePoint" />
+            <mxPoint x="470" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="102" as="sourcePoint" />
+            <mxPoint x="470" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="162" as="sourcePoint" />
+            <mxPoint x="190" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-7" value="（2）在当前指令完成后，控制传递给处理程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry x="200" y="72" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-8" value="（3）中断处理程序运行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry x="470" y="112" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-9" value="（4）处理程序返回到下一条指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry x="270" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-10" value="（1）在当前指令的执行过程中，中断引脚电压变高了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-12" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;curr&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry x="120" y="82" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-13" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;next&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry x="120" y="102" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-14" value="图 8-5 中断处理。中断处理程序将控制返回给应用程序控制流中的下一条指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-117">
+          <mxGeometry x="40" y="242" width="430" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="360" width="560" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-119" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" as="sourcePoint" />
+            <mxPoint x="180" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="120" as="sourcePoint" />
+            <mxPoint x="180" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="100" as="sourcePoint" />
+            <mxPoint x="470" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="102" as="sourcePoint" />
+            <mxPoint x="470" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-123" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="162" as="sourcePoint" />
+            <mxPoint x="190" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-124" value="（2）控制传递给处理程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="200" y="72" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-125" value="（3）陷阱处理程序运行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="470" y="112" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-126" value="（4）处理程序返回到syscall之后的指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="270" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-127" value="（1）应用程序执行一次系统调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-128" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;i&gt;syscall&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="120" y="82" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-129" value="&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;I&lt;/font&gt;&lt;/i&gt;&lt;sub&gt;next&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="120" y="102" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xiOpGG4odRyFYriXpunj-130" value="图 8-6 陷阱处理。陷阱处理程序将控制返回给应用程序控制流中的下一条指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="xiOpGG4odRyFYriXpunj-118">
+          <mxGeometry x="40" y="242" width="430" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
